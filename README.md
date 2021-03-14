@@ -16,4 +16,5 @@ Data used :-
 2)	Forestfires dataset :- To classify the Size_Category using SVM.
 
 Programming :- Python
+
 The Codes regarding  SVM with Two different business problems salary dataset  ,forestfires dataset are present in this Repository in detail.
